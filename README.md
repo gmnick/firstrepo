@@ -1,2 +1,2 @@
-# firstyrepo
-Just tessting
+# firstrepo
+Just testing
